@@ -2,7 +2,7 @@
 
 ---
 
-### Phrase 1.
+### Phrases 1.
 
 Hướng xây dựng 1 framework MVC cơ bản để hiểu được MVC pattern rất hay dung trong
 làm WEB, hiểu và nắm được các thành phần của web để khi tiếp cận các framework khác hay học framework
@@ -63,7 +63,7 @@ Từ tuần 2 sinh viên sẽ chuyển sang tìm hiểu về framework laravel. 
 các kiến thức cở bản trong phần training 1. Nếu bạn nào chưa nắm vững thì cho tự tìm hiểu lại và thời gian sẽ rút xuống 1/2 nghĩa là còn 1 tuần cho
 việc review phần 1.
 
-### Phrase 2:
+### Phrases 2:
 
 Tài liệu training larvel cũng dựa vào các đề muc cần tìm hiểu và tìm hiểu ở các trang dứoi đây hay mentor có thể dùng các tài liệu khác phù hơp.
 
@@ -105,7 +105,7 @@ Tài liệu training larvel cũng dựa vào các đề muc cần tìm hiểu v�
 8. Event, Broadcasting
 9. Task & Scheduling
 
-### Phrase 3.
+### Phrases 3.
 
 Từ tuần này vẫn tiếp tục học laravel và kết hợp làm project cuối. đự định cho làm 1 trang hoàn chỉnh có thể là trang hoàn chỉnh blog.
 
@@ -115,4 +115,4 @@ Từ tuần này vẫn tiếp tục học laravel và kết hợp làm project c
    * Category
    * Post
    * User
-   * Login 
+   * Login
